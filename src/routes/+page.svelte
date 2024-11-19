@@ -6,9 +6,9 @@
 
 <div>
     <div class="buttonContainer">
-        <MainButton />
+        <MainButton text="Log In" color="white" />
         <div class="or">Or</div>
-        <MainButton />
+        <MainButton text="Sign Up" color="gold" />
     </div>
 </div>
 
